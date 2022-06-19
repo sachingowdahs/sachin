@@ -1,0 +1,31 @@
+.navbar{
+    justify-content: space-evenly;
+    align-items: center;
+    width:20%;
+    background-color: black;
+color:white
+}
+
+.logo{
+margin-top: 10%;
+margin-left:6% ;
+font-size: 22px;
+}
+
+.menubar{
+padding:10% 10% ;
+}
+
+.icon{
+    padding:0% 10%;
+    font-size: 22px;
+}
+
+.title{
+    padding:4% 0%;
+
+}
+
+.title:hover{
+    background-color: lightslategray;
+}
